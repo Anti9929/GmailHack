@@ -12,7 +12,7 @@ def main():
 | |_| | | | | | | (_| | | |  _  | (_| | (__|   <
  \____|_| |_| |_|\__,_|_|_|_| |_|\__,_|\___|_|\_\ """
    print '================================================='
-   print '               coded by VPP Hacker              '
+   print '               coded by black cat              '
    print '           Subscribe Our YouTube Channel         '
    print '================================================='
 
